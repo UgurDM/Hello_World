@@ -1,3 +1,3 @@
-# Hello_World
-First github project with python
+# Hello World
+First github project with Python  
 Uğur Demirelce
